@@ -1,0 +1,32 @@
+﻿<Window x:Class="View.SupervisionName"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Students Name" Height="236" Width="177"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+
+    <Window.Resources>
+        <DataTemplate x:Key="studT">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Content="{Binding Path=FamilyName}"/>
+                <Label  Grid.Column="1" Content="{Binding Path=GivenName}"/>
+            </Grid>
+        </DataTemplate>
+    </Window.Resources>
+
+    
+
+    <Grid>
+        <Label>
+            
+            <Button x:Name="close" Content="Close" Height="19" Width="76" Click="close_Click" HorizontalAlignment="Center"/>
+            
+            
+        </Label>
+        <ListBox ItemsSource="{Binding}" ItemTemplate="{Binding Source={StaticResource studT}}" Margin="0,32,10,24" HorizontalAlignment="Right" Width="138"/>
+    </Grid>
+</Window>

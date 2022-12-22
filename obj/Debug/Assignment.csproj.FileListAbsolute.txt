@@ -1,0 +1,96 @@
+P:\KIT506\assig 2wc\Assignment2\bin\Debug\Assignment2.exe.config
+P:\KIT506\assig 2wc\Assignment2\bin\Debug\Assignment2.exe
+P:\KIT506\assig 2wc\Assignment2\bin\Debug\Assignment2.pdb
+P:\KIT506\assig 2wc\Assignment2\bin\Debug\MySql.Data.dll
+P:\KIT506\assig 2wc\Assignment2\bin\Debug\MySql.Data.xml
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\view\SupervisionName.baml
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\view\MainWindow.g.cs
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\view\Usercontrol.g.cs
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\view\SupervisionName.g.cs
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\view\App.g.cs
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\view\App.baml
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\view\MainWindow.baml
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\view\Usercontrol.baml
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\Assignment2.g.resources
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\Assignment2.exe
+P:\KIT506\assig 2wc\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\user\Downloads\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\user\Downloads\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\user\Downloads\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\user\Downloads\Assignment2\Assignment2\bin\Debug\MySql.Data.xml
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\view\SupervisionName.baml
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\view\MainWindow.g.cs
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\view\Usercontrol.g.cs
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\view\SupervisionName.g.cs
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\view\App.g.cs
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\view\App.baml
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\view\MainWindow.baml
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\view\Usercontrol.baml
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\view\ReportView.baml
+C:\Users\user\Downloads\Assignment2\Assignment2\obj\Debug\view\ReportView.g.cs
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\ReportView.baml
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\SupervisionName.baml
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\MainWindow.g.cs
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\ReportView.g.cs
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\Usercontrol.g.cs
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\SupervisionName.g.cs
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\App.g.cs
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\App.baml
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\MainWindow.baml
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\Usercontrol.baml
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\user\Desktop\공부\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\bin\Debug\MySql.Data.xml
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\ReportView.baml
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\SupervisionName.baml
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\MainWindow.g.cs
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\ReportView.g.cs
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\Usercontrol.g.cs
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\SupervisionName.g.cs
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\App.g.cs
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\App.baml
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\MainWindow.baml
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\view\Usercontrol.baml
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\younh\Desktop\STUDY\MITS\2nd_semester\KIT506 Software Design and Development\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
