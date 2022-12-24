@@ -17,10 +17,10 @@ namespace Database
         private static bool reportingErrors = false;
 
         //Connect to the database
-        private const string db = "kit206";
-        private const string user = "kit206";
-        private const string pass = "kit206";
-        private const string server = "alacritas.cis.utas.edu.au";
+        private const string db = "dbname";
+        private const string user = "username";
+        private const string pass = "passwd";
+        private const string server = "server.ip.utas.edu.au";
 
         private static MySqlConnection conn = null;
 
