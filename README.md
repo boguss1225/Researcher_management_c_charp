@@ -20,7 +20,7 @@ comprehensive researcher management program with GUI. Implemented in C#. Users c
 ![picture](docs/6_SequenceDiagram6.jpg) </br>
 
 ## USE CASE
-![picture](docs/filtered_view.jpg) </br>
+![picture](docs/filtered_view.png) </br>
 User can filter the researchers by name and check their details including further details of their publication. </br>
 
 
